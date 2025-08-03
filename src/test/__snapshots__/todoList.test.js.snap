@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Genera un snapshot del componente TodoList 1`] = `
+<DocumentFragment>
+  <ul>
+    <li
+      class=""
+      style="cursor: pointer;"
+    />
+    <li
+      class=""
+      style="cursor: pointer;"
+    />
+  </ul>
+</DocumentFragment>
+`;
